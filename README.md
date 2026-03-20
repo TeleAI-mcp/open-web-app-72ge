@@ -1,2 +1,3 @@
-# open-web-app-72ge
-A web application for modern development workflows
+# Open Web App 72Ge
+
+A web application for modern development workflows.
